@@ -1,0 +1,29 @@
+.main_nav_menu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  text-transform: uppercase;
+  font-family: 'Bitter', serif;
+  min-font-size: 2vw;
+}
+
+#logo {
+  height: 5vw;
+  width: 5vw;
+}
+
+#logo img {
+  height: 100%;
+  width: 100%;
+}
+
+.main_nav_menu li {
+  padding: 1vw 3vw;
+}
+
+.main_nav_menu a{
+  text-decoration: none;
+  color: white;
+}
+
